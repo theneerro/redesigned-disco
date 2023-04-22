@@ -1,2 +1,3 @@
 # redesigned-disco
-Setup Demo
+
+demo Setup
